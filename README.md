@@ -36,7 +36,10 @@ Go to your Browser and type : "local/admin-login".
 
 ## Output
 ![image](https://github.com/Kompelli-Anurudh/Guarding-Against-Keylogger/assets/128072700/69a9614a-9e16-48fb-90c7-95f1545f523b)
+
 ![image](https://github.com/Kompelli-Anurudh/Guarding-Against-Keylogger/assets/128072700/f3c8f2f4-4272-4218-b189-7dced37c33b4)
+
 ![image](https://github.com/Kompelli-Anurudh/Guarding-Against-Keylogger/assets/128072700/a65e616b-3476-48db-8e1a-b19437f2b4da)
+
 ![image](https://github.com/Kompelli-Anurudh/Guarding-Against-Keylogger/assets/128072700/7a7199c6-3f4f-42db-9502-76286ccfcf53)
 
