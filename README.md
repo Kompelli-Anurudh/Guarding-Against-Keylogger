@@ -44,3 +44,6 @@ Go to your Browser and type : "local/admin-login".
 ![image](https://github.com/Kompelli-Anurudh/Guarding-Against-Keylogger/assets/128072700/7a7199c6-3f4f-42db-9502-76286ccfcf53)
 
 To View the output simultaneously open the "keystrokes.txt" in the VS Code to view the caputured data.
+
+## LICENSE
+https://github.com/Kompelli-Anurudh/Guarding-Against-Keylogger/blob/e0d295fa82d6a308e2bdc549686a9e9b00269ab9/LICENSE
